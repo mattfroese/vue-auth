@@ -1,18 +1,15 @@
 {
-  "name": "vue-auth",
+  "name": "@saltyquark/vue-auth",
   "version": "0.0.2",
   "description": "Unofficial auth plugin for Vue.js 2",
-  "author": "Matt Froese",
+  "author": "Matt Froese <froese.matt@gmail.com>",
   "license": "MIT",
   "main": "dist/vue-auth.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/saltyquark/vue-auth"
   },
-  "keywords": [
-    "vue",
-    "auth"
-  ],
+  "keywords": ["vue", "vue.js", "jwt", "auth", "authentication", "plugin", "json", "web", "token"],
   "scripts": {
     "dev": "node examples/server.js",
     "build": "node build/build.js"
